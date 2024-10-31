@@ -1,0 +1,30 @@
+pandas
+geopandas
+cartopy
+seaborn
+ipykernel
+virtualenv
+folium
+geopandas
+shapely
+matplotlib
+plotly
+notebook
+ipywidgets
+jupyterlab
+nbformat
+contextily
+pytz
+# kaleido
+# jupyter_contrib_nbextensions
+# jupyter_nbextensions_configurator
+# ffmpeg
+# scipy
+# scikit-learn
+# cartopy
+# descartes
+# seaborn
+# geemap
+# statsmodels
+# branca
+# selenium
