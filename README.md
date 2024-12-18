@@ -1,6 +1,6 @@
 ### This is Event LLM research project repository.
 #### MIT City Senseable Lab
-##### UROP RESEARCH
+##### UROP RESEARCH Fall 2024
 Shahriar Ahmad Fahim
 Supervised by Dr. Songhua Hu and Prof. Fabio Duarte
 
