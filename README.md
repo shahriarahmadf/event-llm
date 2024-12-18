@@ -6,6 +6,7 @@ Supervised by Dr. Songhua Hu and Prof. Fabio Duarte
 
 Note. Project Folder Setup for running the notebooks in folder_fall2024. After git cloning, if any of the below folder is missing, ** should be manually created to run the notebooks without error.
 
+```
 event-llm/
 ├── data_CityEvent/         
 │   ├── cbg_features/               # Features data for census block groups (CBGs)
@@ -28,6 +29,6 @@ event-llm/
 │   ├── spatial/                   
 │   ├── time/                      
 ├── requirements.txt/              # This file ensure all libraries to install  
-
+```
 
 The results folder may also contain additional results from experiments from experiment_notebooks.
